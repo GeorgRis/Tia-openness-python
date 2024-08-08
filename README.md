@@ -15,13 +15,16 @@ Tia-openness-python is a project developed by Georg Risøy for Tratec Norcon. Th
 
 ## Project Structure
 Tia-openness-python/
-
 │
 
 ├── LICENSE
+
 ├── README.md
+
 ├── requirements.txt
+
 └── src/
+
 └── your_script.py
 
 ## Contributing
