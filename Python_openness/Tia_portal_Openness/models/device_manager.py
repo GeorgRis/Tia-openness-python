@@ -1,8 +1,8 @@
 import json
 import os
 import clr # pip install pythonnet
-
-__ref = "C:\\Program Files\\Siemens\\Automation\\Portal V19\\PublicAPI\\V19\\Siemens.Engineering.dll"
+# Your refference code
+__ref = ""
 clr.AddReference(__ref)
 from System.IO import DirectoryInfo, FileInfo
 import Siemens.Engineering as tia
