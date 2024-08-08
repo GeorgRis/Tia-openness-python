@@ -2,8 +2,8 @@ import clr  # pip install pythonnet
 from pydantic import BaseModel
 from typing import List, Dict
 from fastapi import FastAPI, HTTPException
-
-__ref = "C:\\Program Files\\Siemens\\Automation\\Portal V19\\PublicAPI\\V19\\Siemens.Engineering.dll"
+# Your refference code
+__ref = ""
 clr.AddReference(__ref)
 from System.IO import DirectoryInfo, FileInfo
 import Siemens.Engineering as tia
