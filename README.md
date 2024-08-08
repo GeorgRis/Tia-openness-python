@@ -13,20 +13,6 @@ Tia-openness-python is a project developed by Georg Risøy for Tratec Norcon. Th
 1. Ensure you have TIA Portal installed and properly configured on your system.
 2. Run the example scripts or modify them according to your needs.
 
-## Project Structure
-Tia-openness-python/
-
-│
-
-├── LICENSE
-
-├── README.md
-
-├── requirements.txt
-
-└── src/
-
-└── your_script.py
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
