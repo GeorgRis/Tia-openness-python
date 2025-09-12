@@ -14,11 +14,11 @@ from Tia_portal_Openness.models.network_manager import NetworkManager
 class DeviceManager:
     def __init__(self):
         self.file_paths = {
-            "iocards": "C:\\Users\\gr\\PycharmProjects\\pythonProject\\Tia_portal_Openness\\models\\mapping_iocards.json",
-            "cpucards": "C:\\Users\\gr\\PycharmProjects\\pythonProject\\Tia_portal_Openness\\models\\mapping_cpucards.json",
-            "riocards": "C:\\Users\\gr\\PycharmProjects\\pythonProject\\Tia_portal_Openness\\models\\mapping_riocards.json"
+            "iocards": "C:\\Users\\Tia_portal_Openness\\models\\mapping_iocards.json",
+            "cpucards": "C:\\Users\\Tia_portal_Openness\\models\\mapping_cpucards.json",
+            "riocards": "C:\\Users\\Tia_portal_Openness\\models\\mapping_riocards.json"
         }
-        self.merged_file_path = "C:\\Users\\gr\\PycharmProjects\\pythonProject\\Tia_portal_Openness\\models\\merged_mapping.json"
+        self.merged_file_path = "C:\\Users\\Tia_portal_Openness\\models\\merged_mapping.json"
         self.device_mapping = self.merge_and_load_mappings()
 
     def merge_and_load_mappings(self):
