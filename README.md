@@ -1,7 +1,7 @@
 # Tia-openness-python
 
 ## Overview
-Tia-openness-python is a project developed by Georg Risøy for Tratec Norcon. The project aims to provide Python-based tools and scripts for automating Siemens TIA Portal using the TIA Portal Openness API. Many of the functions included are designed to streamline and automate tasks within TIA Portal.
+Tia-openness-python is a project developed by Georg Risøy for Tratec Norcon(2024). The project aims to provide Python-based tools and scripts for automating Siemens TIA Portal using the TIA Portal Openness API. Many of the functions included are designed to streamline and automate tasks within TIA Portal.
 
 ## Features
 - **Automation Scripts:** Scripts to automate common tasks in TIA Portal.
@@ -26,10 +26,6 @@ Tia-openness-python is a project developed by Georg Risøy for Tratec Norcon. Th
 8. Setting attributes like PotenialGroup
 9. Deleting device
 10. Saving, close and dispose
-
-
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
